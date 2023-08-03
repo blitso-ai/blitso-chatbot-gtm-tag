@@ -1,5 +1,5 @@
 homepage: "https://blitso.ai/"
 documentation: "https://blitso.ai/?openBlitso=help-center"
 versions:
-  - sha: 05ec47ac5e38c0eb330561b1b8b4fdecdd0358ed
+  - sha: a9a87a5a54c0fffd9aca0dbcc46f17c79c3442e4
     changeNotes: Initial Version
